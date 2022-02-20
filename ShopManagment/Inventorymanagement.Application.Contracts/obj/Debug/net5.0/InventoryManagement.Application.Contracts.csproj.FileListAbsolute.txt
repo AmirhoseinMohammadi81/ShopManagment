@@ -1,0 +1,11 @@
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\bin\Debug\net5.0\InventoryManagement.Application.Contracts.deps.json
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\bin\Debug\net5.0\InventoryManagement.Application.Contracts.dll
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\bin\Debug\net5.0\ref\InventoryManagement.Application.Contracts.dll
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\bin\Debug\net5.0\InventoryManagement.Application.Contracts.pdb
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.AssemblyInfo.cs
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.dll
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\obj\Debug\net5.0\ref\InventoryManagement.Application.Contracts.dll
+C:\Users\Amirhosein\source\repos\ShopManagment\ShopManagment\Inventorymanagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.pdb

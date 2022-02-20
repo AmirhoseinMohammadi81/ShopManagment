@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76e7904e-b6ab-4f6d-ba96-f66d230ef3ab": {
+      "ProjectGuid": "76e7904e-b6ab-4f6d-ba96-f66d230ef3ab",
+      "DisplayName": "InventoryManagement.Infrastructure.EFCore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
